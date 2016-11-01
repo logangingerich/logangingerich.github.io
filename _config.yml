@@ -5,13 +5,13 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Logan Gingerich # Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  title: "Logan Gingerich" 
+  description: "A personal portfolio and blog website" 
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a software developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>Software Developer</h1>
+     <p>I'm a software developer specializing in Rails and AngularJS.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
