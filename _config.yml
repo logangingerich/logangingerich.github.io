@@ -11,7 +11,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>Software Developer</h1>
-     <p>I'm a software developer specializing in Rails and AngularJS.</p>
+     <p>Denver-based software developer specializing in Ruby on Rails.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
