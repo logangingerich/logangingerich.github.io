@@ -13,11 +13,7 @@ short-description: A responsive, real-time chatroom built with AngularJS and Fir
 
 This project is a fully-functional chatroom that allows users to log-in, create chatrooms and send messages, while seeing their rooms and messages populate in real time.
 
-## Problem
-
-The task on this project was to utilize AngularJS with Firebase to create a fully-functional chatroom web application.
-
-## Solution
+## Implementation
 
 AngularJS was the framework on which I built this web application. I then linked it to a Firebase back-end database, allowing me to store chatrooms and their associated messages. Users are able to create a username, which is stored for future use via cookies.
 
@@ -27,7 +23,7 @@ The result is a fully-functional chatroom, which, for the amount of functionalit
 
 ## Conclusion
 
-AngularJS can have a bit of a steep learning curve for those starting out with web development, but it is a very powerful framework and a necessary tool for just about any full-stack web developer. 
+AngularJS can have a bit of a steep learning curve for those starting out with web development, but it is a very powerful framework and a necessary tool for just about any full-stack web developer.
 
 Below is a look at the home view code that I wrote for Bloc Chat:
 
