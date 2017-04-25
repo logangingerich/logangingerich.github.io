@@ -88,6 +88,8 @@
       float: left;
       margin-bottom: 0;
       display: inline-block;
+      border-style: solid;
+      border-color: #0070BB;
       @media (max-width: 768px) {
         width:99%;
       }
