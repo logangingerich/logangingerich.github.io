@@ -85,16 +85,17 @@
     margin:2em auto;
     .project-thumb {
       width: 100%;
-      float: left;
-      margin-bottom: 0;
-      display: inline-block;
-      border-style: solid;
+      border-top: solid;
+      padding-top: 8px;
       border-color: #0070BB;
+      border-width: 8px;
+      float: left;
+      display: block;
       @media (max-width: 768px) {
         width:99%;
       }
       img {
-        display:block;
+        display: block;
         text-align: center;
         margin:0 auto 1%;
       }
@@ -123,7 +124,7 @@
       margin-top: 1em;
     }
   }
-  
+
 }
 // Pagination
 .pagination .button {
