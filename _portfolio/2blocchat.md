@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Bloc Chat
-thumbnail-path: "img/blocchat.png"
+title: Geek Chat
+thumbnail-path: "img/geekchat.png"
 short-description: A responsive, real-time chatroom built with AngularJS and Firebase.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocchat.png)
+![]({{ site.baseurl }}/img/geekchat.png)
 
 ## Explanation
 
-This project is a fully-functional chatroom that allows users to log-in, create chatrooms and send messages, while seeing their rooms and messages populate in real time.
+This project is a fully-functional geek fandom chatroom that allows users to log-in, create chatrooms and send messages, while seeing their rooms and messages populate in real time.
 
 ## Implementation
 
@@ -25,7 +25,7 @@ The result is a fully-functional chatroom, which, for the amount of functionalit
 
 AngularJS can have a bit of a steep learning curve for those starting out with web development, but it is a very powerful framework and a necessary tool for just about any full-stack web developer.
 
-Below is a look at the home view code that I wrote for Bloc Chat:
+Below is a look at the home view code that I wrote for Geek Chat:
 
 ```Javascript
 <div class="mainContainer">
