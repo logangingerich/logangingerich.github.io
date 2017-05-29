@@ -31,7 +31,7 @@ Below is a look at the home view code that I wrote for Geek Chat:
 <div class="mainContainer">
     <div class="sidebar">
         <button class="createButton" ng-click="home.openModal()">Create Room</button>
-        <h1>Bloc Chat</h1>
+        <h1>Geek Chat</h1>
         <h2 class="rooms" ng-repeat="room in home.rooms"
         ng-click="home.setCurrentRoom(room)">{{room.name}}</h2>
     </div>
