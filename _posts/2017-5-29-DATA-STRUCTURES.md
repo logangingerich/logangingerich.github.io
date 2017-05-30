@@ -3,7 +3,7 @@ layout: post
 title: Data Structures
 ---
 
-We take a lot for granted when first learning to write code, and writely so. I really think it's best to start out just accepting some of the 'magic' built into our languages and frameworks, at least initially. Peaking behind the curtain before you understand the surface-level material can be overwhelming, to say the least.
+We take a lot for granted when first learning to write code, and rightly so. I really think it's best to start out just accepting some of the 'magic' built into our languages and frameworks, at least initially. Peaking behind the curtain before you understand the surface-level material can be overwhelming, to say the least.
 
 That said, it is truly fascinating to dig into the nuts and bolts of the basic data structures behind languages like Ruby. Take, for example, Ruby's version of a Hash. Creating, using and manipulating hashes in the Ruby language is fairly straight forward. You can initialize a hash with `myHash = Hash.new` or 'myHash = {}'.  You can add data by writing `myHash = {:first_item => 1, :second_item => 2}` or `myHash = {first_item: 1, second_item: 2}`, among others. You can also easily access a value with its key, as in `myHash[:first_item]` which would return `1`. 
 
