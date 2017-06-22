@@ -49,3 +49,20 @@
     }
   }
 }
+
+/* LEFT TO RIGHT */
+.page-link {
+display: inline-block;
+}
+.page-link:after {
+content: '';
+display: block;
+height: 3px;
+width: 0;
+background: transparent;
+transition: width .5s ease, background-color .5s ease;
+}
+.page-link:hover:after {
+width: 100%;
+background: $link-color;
+}
