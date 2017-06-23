@@ -5,14 +5,14 @@ url: "http://logangingerich.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: "Logan Gingerich" 
-  description: "A personal portfolio and blog website" 
+  title: "Logan Gingerich"
+  description: "A personal portfolio and blog website"
 
   # Header and footer text
   header_text: >
      <h1>Software Developer</h1>
      <p>Denver-based software developer specializing in Ruby on Rails.</p>
-  header_text_feature_image: 
+  header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
@@ -53,7 +53,7 @@ theme_settings:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Lato:300,400,700,300italic,700italic|Abril+Fatface"
+  google_fonts: "Electrolize"
 
 # PAGINATION
 paginate: 100
