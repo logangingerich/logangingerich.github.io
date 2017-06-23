@@ -9,22 +9,22 @@ $padding-small: 5%;
 $padding-x-small: 3%;
 
 // Brand colours
-$brand-color: #fff;
-$background-color: #fff;
-$border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
+$brand-color: #2B2B2B;
+$background-color: #2B2B2B;
+$border-color: rgba(246, 246, 246, 0.1); // rgba recommended if using feature images
 
 // Typography colours
-$text-color: #4a4a4a;
-$link-color: #0070BB;
-$selection-color: #D4D4D4; // visible when highlighting text
+$text-color: #F6F6F6;
+$link-color: #DE1B1B;
+$selection-color: #F6F6F6; // visible when highlighting text
 
 // Header colours
-$header-link-color: #383838;
+$header-link-color: #F6F6F6;
 
 // Feature image for articles
 $feature-image-text-color: #fff;
 $feature-image-size: cover; // options include "cover", "contain", "auto"
 
 // Header description box
-$header-desc-background-color: #0070BB;
+$header-desc-background-color: #DE1B1B;
 $header-desc-text-color: #FFF;
