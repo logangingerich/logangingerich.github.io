@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Resume
-permalink: /resume/
+permalink:
 feature-img: "img/color.png"
 ---
 
-Coming Soon...
+<img src="dev-resume-1.png" alt="Resume" class="resume">
