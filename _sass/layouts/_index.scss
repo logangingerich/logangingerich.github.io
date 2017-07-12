@@ -133,6 +133,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
+        transition: all .25s ease-in-out;
       }
       &:hover {
         cursor: pointer;
@@ -142,8 +143,6 @@
         }
         .title {
           opacity: 0;
-          transition: all .25s ease-in-out;
-          font-family: 'Archivo Black';
         }
       }
     }
