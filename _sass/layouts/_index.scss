@@ -121,6 +121,7 @@
       }
       .title {
         font-size: 5vw;
+        font-family: 'Archivo Black';
         color: #DE1B1B;
         position: absolute;
         top: 0;
@@ -142,6 +143,7 @@
         .title {
           opacity: 0;
           transition: all .25s ease-in-out;
+          font-family: 'Archivo Black';
         }
       }
     }
