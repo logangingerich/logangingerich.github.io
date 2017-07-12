@@ -117,7 +117,7 @@
         margin:0 auto 1%;
         -webkit-filter: blur(6px);
        filter: blur(6px);
-       transition: all .218s ease-in-out;
+       transition: all .25s ease-in-out;
       }
       .title {
         font-size: 5vw;
@@ -141,6 +141,7 @@
         }
         .title {
           opacity: 0;
+          transition: all .25s ease-in-out;
         }
       }
     }
