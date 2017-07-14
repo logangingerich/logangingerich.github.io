@@ -2,7 +2,7 @@
 layout: post
 title: Bloc Jams
 thumbnail-path: "img/blocjams.png"
-short-description: A replica of Spotify used for finding and playing songs from a library of music.
+short-description: An AngularJS app for finding and playing songs from a library of music.
 
 ---
 

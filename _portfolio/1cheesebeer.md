@@ -2,7 +2,7 @@
 layout: post
 title: Cheese + Beer
 thumbnail-path: "img/cheesebeer.png"
-short-description: An original app for finding and cataloguing cheese + beer pairings.
+short-description: An original Ruby on Rails app for finding and cataloguing cheese + beer pairings.
 
 ---
 
@@ -19,7 +19,7 @@ Ruby on Rails proved to be a great framework for implementing such a web app. Fi
 
 ## Results
 
-I'm pretty proud of this project. I spent years as a professional cheesemonger and this app really brought together a love of artisinal cheese and beer with my love of programming. 
+I'm pretty proud of this project. I spent years as a professional cheesemonger and this app really brought together a love of artisinal cheese and beer with my love of programming.
 You can see my GitHub repository for the project here: [Cheese + Beer GitHub Repo](https://github.com/logangingerich/cheese-plus-beer)
 You can also try it out for yourself at this address: [Cheese + Beer Website](https://cheese-plus-beer.herokuapp.com/)
 

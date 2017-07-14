@@ -2,7 +2,7 @@
 layout: post
 title: Blocipedia
 thumbnail-path: "img/blocipedia.png"
-short-description: A replica of Wikipedia used for creating and editing wikis.
+short-description: A Ruby on Rails app for creating and editing wikis.
 
 ---
 

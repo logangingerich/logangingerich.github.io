@@ -2,7 +2,7 @@
 layout: post
 title: Bloccit
 thumbnail-path: "img/bloccit.png"
-short-description: A replica of Reddit used for creating posts.
+short-description: A Ruby on Rails app for creating and interacting with user posts.
 
 ---
 
