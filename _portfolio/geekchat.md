@@ -25,27 +25,6 @@ The result is a fully-functional chatroom, which, for the amount of functionalit
 
 AngularJS can have a bit of a steep learning curve for those starting out with web development, but it is a very powerful framework and a necessary tool for just about any full-stack web developer.
 
-Below is a look at the home view code that I wrote for Geek Chat:
+Feel free to take a look at my code for Geek Chat here: [Geek Chat GitHub Repo](https://github.com/logangingerich/geek-chat)
 
-```Javascript
-<div class="mainContainer">
-    <div class="sidebar">
-        <button class="createButton" ng-click="home.openModal()">Create Room</button>
-        <h1>Geek Chat</h1>
-        <h2 class="rooms" ng-repeat="room in home.rooms"
-        ng-click="home.setCurrentRoom(room)">{{room.name}}</h2>
-    </div>
-    <div class="right">
-        <div class="roomTitle">{{ home.currentRoom.name }}</div>
-        <div class="messages" ng-repeat="message in home.messages">
-            <div class="username">{{ message.username }}</div>
-            <div class="time">{{message.sentAt | date : "short" }}</div>
-            <div class="content">{{message.content}}</div>      
-        </div>
-        <div class="sendBar">
-            <input class="messageInput" placeholder="Enter Message" ng-model="home.newMessage.content">
-            <button class="send" ng-click="home.sendMessage()">Send</button>
-        </div>
-    </div>
-</div>
-```
+Geek Chat is also hosted on Heroku, and you can try it out for yourself here: [Geek Chat Website](https://dry-earth-80515.herokuapp.com/).
