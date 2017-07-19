@@ -25,6 +25,6 @@ The result is a fully-functional chatroom, which, for the amount of functionalit
 
 AngularJS can have a bit of a steep learning curve for those starting out with web development, but it is a very powerful framework and a necessary tool for just about any full-stack web developer.
 
-Feel free to take a look at my code for Geek Chat here: [Geek Chat GitHub Repo](https://github.com/logangingerich/geek-chat)
+Feel free to take a look at my code for Geek Chat here: [Geek Chat GitHub Repo](https://github.com/logangingerich/geek-chat).
 
 Geek Chat is also hosted on Heroku, and you can try it out for yourself here: [Geek Chat Website](https://dry-earth-80515.herokuapp.com/).
