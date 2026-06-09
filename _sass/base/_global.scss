@@ -111,4 +111,9 @@ img[align=right] { margin-left: 3%; }
   @media (max-width: 768px) {
     padding: 1.5rem $padding-x-small;
   }
+
+  // Don't add padding/space when the home page content div is empty
+  &:empty {
+    display: none;
+  }
 }
