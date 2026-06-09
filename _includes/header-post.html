@@ -14,13 +14,15 @@
   </nav>
 
   {% if site.theme_settings.header_text %}
-  <div class="call-out" 
-  style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')">
-    <h1 class="site-title">
-      <a href="{{ site.baseurl }}/">{{ site.theme_settings.title }}</a>
-    </h1>
-    <div class="divider"></div>
-    <h1 class="title">{{ page.title }}</h1>
+  <div class="call-out call-out-compact">
+    <div class="aurora"></div>
+    <div class="hero-content hero-content-compact">
+      <h1 class="site-title">
+        <a href="{{ site.baseurl }}/">{{ site.theme_settings.title }}</a>
+      </h1>
+      <div class="divider"></div>
+      <h2 class="page-title">{{ page.title }}</h2>
+    </div>
   </div>
   {% endif %}
 </header>
